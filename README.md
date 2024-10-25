@@ -1,5 +1,5 @@
 
-# Local LLM Chatbot using Microsoft Phi3:14B and Ollama Framework
+# Local LLM Chatbot using Ollama Framework
 
 ## Overview
 
