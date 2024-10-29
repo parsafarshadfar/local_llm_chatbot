@@ -1,5 +1,5 @@
 
-# Local LLM Chatbot
+# Local LLM Chatbot with Ollama
 
 ## Overview
 
