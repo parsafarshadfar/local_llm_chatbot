@@ -11,7 +11,7 @@ This repository contains a Local LLM (Large Language Model) chatbot, running in 
 - **OpenAI-like Syntax**: The code syntax closely follows OpenAI’s API style, making it intuitive for developers familiar with OpenAI’s API to work with and modify.
 - **Versatile Model Compatibility**: Designed for compatibility with multiple offline LLMs, including **llama3.1:8b** (Meta), **phi3:14b** (Microsoft), **gemma2:9b** (Google), and more. Switching between models is as simple as changing a single line of code to specify the model name.
 - **Jupyter Notebook integration**: Easily explore, test, and modify code within an interactive notebook environment.
-- **Ollama Framework**: Simplifies the implementation, allowing for rapid setup and deployment of the chatbot.
+- **Ollama Framework**: Simplifies the implementation, allowing for rapid setup and deployment of the chatbot. 
 
 ## Requirements
 
