@@ -12,7 +12,7 @@ This repository contains a Local LLM (Large Language Model) chatbot, running in 
 - **Versatile Model Compatibility**: Designed for compatibility with multiple offline LLMs, including **llama3.1:8b** (Meta), **phi3:14b** (Microsoft), **gemma2:9b** (Google), and more. Switching between models is as simple as changing a single line of code to specify the model name.
 - **Jupyter Notebook integration**: Easily explore, test, and modify code within an interactive notebook environment.
 - **Ollama Framework**: Simplifies the implementation, allowing for rapid setup and deployment of the chatbot. 
-
+ 
 ## Requirements
 
 - **Python 3.x**
@@ -40,4 +40,3 @@ This chatbot can be used as a conversational agent within Jupyter, suitable for 
 ## Contributing
 
 Feel free to submit pull requests or open issues if you’d like to improve or troubleshoot this project. Contributions are welcome!
-
