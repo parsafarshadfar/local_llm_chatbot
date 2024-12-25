@@ -37,6 +37,6 @@ This repository contains a Local LLM (Large Language Model) chatbot, running in 
 
 This chatbot can be used as a conversational agent within Jupyter, suitable for experimenting with LLM-based dialogue, language tasks, and more. For switching to a different model, locate the line in the code where the model is initialized, and replace the model name with your preferred model name (e.g., `model = "llama3.1"`). This flexibility enables the chatbot to work with multiple LLMs by modifying only a single line of code.
 
-## Contributing
+## Contributing 
 
 Feel free to submit pull requests or open issues if you’d like to improve or troubleshoot this project. Contributions are welcome!
