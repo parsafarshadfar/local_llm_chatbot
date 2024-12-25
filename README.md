@@ -5,7 +5,7 @@
 
 This repository contains a Local LLM (Large Language Model) chatbot, running in a **Jupyter Notebook** environment, and utilizing the **Ollama** framework. This chatbot provides a local, private solution for experimenting with conversational AI, bypassing the need for cloud-based LLMs.
 
-## Features
+## Features 
 
 - **Microsoft Phi3:14B model**: Leverages the power of this 14-billion-parameter model for generating coherent and contextually accurate responses.
 - **OpenAI-like Syntax**: The code syntax closely follows OpenAI’s API style, making it intuitive for developers familiar with OpenAI’s API to work with and modify.
