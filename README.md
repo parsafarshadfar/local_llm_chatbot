@@ -20,7 +20,7 @@ This repository contains a Local LLM (Large Language Model) chatbot, running in 
 - **Ollama Framework**
 
 ## Getting Started
-
+ 
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/parsafarshadfar/local_llm_chatbot.git
