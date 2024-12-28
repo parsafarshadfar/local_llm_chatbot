@@ -31,7 +31,7 @@ This repository contains a Local LLM (Large Language Model) chatbot, running in 
    
 3. **Open and Run the Chatbot Notebook**:
    
-    Open `LLM_chatbot.ipynb` in Jupyter Notebook and execute the cells to initialize and interact with the chatbot.
+    Open `LLM_chatbot.ipynb` in Jupyter Notebook and execute the cells to initialize and interact with the chatbot. 
 
 ## Usage
 
