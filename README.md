@@ -18,7 +18,7 @@ This repository contains a Local LLM (Large Language Model) chatbot, running in 
 - **Python 3.x**
 - **jupyter**
 - **Ollama Framework**
-
+ 
 ## Getting Started
  
 1. **Clone this repository:**
