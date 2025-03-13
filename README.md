@@ -1,7 +1,7 @@
 
 # Local LLM Chatbot with Ollama
 
-## Overview 
+## Overview  
 
 This repository contains a Local LLM (Large Language Model) chatbot, running in a **Jupyter Notebook** environment, and utilizing the **Ollama** framework. This chatbot provides a local, private solution for experimenting with conversational AI, bypassing the need for cloud-based LLMs.
 
